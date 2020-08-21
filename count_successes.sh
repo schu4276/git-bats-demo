@@ -1,2 +1,2 @@
 #!/usr/bin/bash
-echo "There were 54 successes and 892 failures." 
+echo "There were 78 successes and 22 failures." 
